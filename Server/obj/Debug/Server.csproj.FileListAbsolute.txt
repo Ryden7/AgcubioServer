@@ -1,0 +1,14 @@
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\Server.exe.config
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\Server.exe
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\Server.pdb
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\Cube.dll
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\Network.dll
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\Newtonsoft.Json.dll
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\World.dll
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\Cube.pdb
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\Network.pdb
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\World.pdb
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\bin\Debug\Newtonsoft.Json.xml
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\obj\Debug\Server.exe
+c:\users\rizwan_laptop\documents\visual studio 2015\Projects\PS8\Server\obj\Debug\Server.pdb
